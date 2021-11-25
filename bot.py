@@ -12,6 +12,7 @@ from Checker import Checker
 from discord.ext import commands, tasks
 from Embed import EmbedGenerator
 from Utils import Utils
+from colorfull import init; init()
 
 
 class Bot():
